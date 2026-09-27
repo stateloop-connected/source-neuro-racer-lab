@@ -1,0 +1,14 @@
+{
+  "build_script": "tsc && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "Blizzeq/neuro-racer-lab",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "630aafdc7eff14ae2e04bdf53b834117e90733c6"
+}
